@@ -6,7 +6,7 @@ Para acessar o tutorial, pode-se usar uma das opções listadas abaixo:
 
 1. Abrir o arquivo *docs/IniciandoComScalaNoDatabricks.html* na máquina local;
 2. Abrir o arquivo *IniciandoComScalaNoDatabricks.scala*;
-3. Acessar este link (https://fabiodias1.github.io/bulk-IntroScala/)
+3. Acessar este link (https://fabiodias1.github.io/bulk-IntroScala/IniciandoComScalaNoDatabricks.html).
 
 Esse documento foi desenvolvido usando-se o serviço *Databricks Community*. (https://community.cloud.databricks.com/)
 
